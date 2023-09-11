@@ -1,0 +1,63 @@
+
+.form-heading {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.signup-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.google-login {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.or-divider {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.signup-button {
+  width: 100%;
+  margin-top: 20px;
+  border: 1px solid #000; 
+  background-color: #000; 
+  color: #fff; 
+}
+
+.terms {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.terms a,
+.login-link a {
+  text-decoration: none; 
+}
+
+.terms a:hover,
+.login-link a:hover {
+  text-decoration: none; 
+}
+
+.login-link {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  
+}
+
+
+.login-link a,
+.login-link a:hover {
+  text-decoration: none;
+}
